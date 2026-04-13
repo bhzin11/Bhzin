@@ -1,0 +1,40 @@
+{
+    "Relikia Tickets": {
+        "nome": "Bot/bh | Bhzin Optimizer #2k/ Mods | Sistema de Ticket",
+        "configs": {
+            "banner": "https://cdn.discordapp.com/attachments/1450193358898200759/1493108591627075694/logo.png?ex=69ddc53c&is=69dc73bc&hm=073d0a1ede85955bad3a0cd7cf9cbe8dd5725e7b8ae88f49f4db7e1949d6a04a&",
+            "miniatura": "https://cdn.discordapp.com/attachments/1450193358898200759/1493108591627075694/logo.png?ex=69ddc53c&is=69dc73bc&hm=073d0a1ede85955bad3a0cd7cf9cbe8dd5725e7b8ae88f49f4db7e1949d6a04a&",
+            "titulo": "Bhzin Tickets",
+            "descricao": "Central de Atendimento\nBem-vindo ao suporte do nosso servidor!\n\nSelecione abaixo o tipo de atendimento que deseja:\n\n Comprar Otimização — Adquira nossos serviços de otimização\n Suporte Técnico — Problemas com serviços adquiridos\n\nNossa equipe responderá o mais rápido possível."
+        },
+        "permissoes": {
+            "1395435998124445718": true,
+            "1395597038615396424": true
+        },
+        "buttonConfig": {
+            "label": "Abrir Ticket",
+            "emoji": "👋",
+            "color": "Azul"
+        },
+        "configsAv": [
+            {
+                "SistemaModal": "Desligado",
+                "SistemaProtocolo": "Desligado",
+                "CategoriaSelecionada": "Desligado"
+            }
+        ],
+        "functions": [
+            {
+                "CriarCall": "Desligado",
+                "Poke": "Desligado",
+                "Assumir": "Ligado",
+                "Renomear": "Ligado",
+                "Pagamentos": "Desligado",
+                "GerenciarMembro": "Desligado"
+            }
+        ],
+        "guildId": "1395435998124445716",
+        "msgId": "1493108259148791868",
+        "channelId": "1449472753240379453"
+    }
+}
