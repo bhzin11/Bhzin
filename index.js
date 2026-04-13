@@ -33,7 +33,7 @@ const commandFolders = fs.readdirSync("./commands");
 
   client.handleEvents(eventsFiles, "./events");
   client.handleCommands(commandFolders, "./commands");
-  client.login(config.token);
+  client.login(process.env.TOKEN || config.token);
 })();
 
 client.on("messageCreate", (message) => {

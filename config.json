@@ -1,4 +1,3 @@
-{
-    "token": "",
+{"token": "process.env.TOKEN",
     "clientid": "1493097095471697950"
 }
